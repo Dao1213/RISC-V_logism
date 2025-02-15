@@ -22,3 +22,4 @@ Load cpu.circ as the main circuit.
 Run the simulation to test RISC-V programs.
 Demo
 Here’s a screenshot of the CPU design in Logisim Evolution:
+![CPU Design](https://github.com/Dao1213/RISC-V_logism/blob/main/Screenshot%20(1340).png)
